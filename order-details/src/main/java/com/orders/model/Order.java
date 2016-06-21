@@ -1,5 +1,9 @@
 package com.orders.model;
-
+/**
+ * Model to store data
+ * @author SRizvi2
+ *
+ */
 public class Order {
 	
 	String orderId;
